@@ -76,6 +76,6 @@ Each project includes objectives, scope, prerequisites, a step-by-step workflow,
 ## Repository status
 
 - [x] Project roadmap created
-- [ ] 50 detailed walkthroughs published
-- [ ] 150 simulated training illustrations published
+- [x] Projects 01–05 detailed walkthroughs published (5/50)
+- [x] 15 simulated training illustrations published (15/150)
 
